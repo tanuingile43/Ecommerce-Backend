@@ -1,0 +1,7755 @@
+[{
+  "_id": {
+    "$oid": "6603ac8c2f7ed9e6962adfce"
+  },
+  "title": "Men Printed Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 499,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "Majestic Man",
+  "color": "Green",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ac8c2f7ed9e6962adfcf"
+      }
+    },
+    {
+      "name": "xl",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ac8c2f7ed9e6962adfd0"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ac8c2f7ed9e6962adfd1"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l5h2xe80/kurta/x/6/n/xl-kast-tile-green-majestic-man-original-imagg4z33hu4kzpv.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ac8c2f7ed9e6962adfcc"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603acb12f7ed9e6962adfd9"
+  },
+  "title": "Men Embroidered Jacquard Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 799,
+  "discountPersent": 68,
+  "quantity": 100,
+  "brand": "SG LEMAN",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603acb12f7ed9e6962adfda"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603acb12f7ed9e6962adfdb"
+      }
+    },
+    {
+      "name": "XXl",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603acb12f7ed9e6962adfdc"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/l/f/r/xl-k-spl668-yellow-sg-leman-original-imagznqcrahgq9rf.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603acb12f7ed9e6962adfd7"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603acbe2f7ed9e6962adfe4"
+  },
+  "title": "Men Printed Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 399,
+  "discountPersent": 73,
+  "quantity": 100,
+  "brand": "FUBAR",
+  "color": "Blue",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603acbe2f7ed9e6962adfe5"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603acbe2f7ed9e6962adfe6"
+      }
+    },
+    {
+      "name": "XL",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603acbe2f7ed9e6962adfe7"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/g/6/k/m-sksh-dt1105-pcbl-fubar-original-imafux247zhqym2z-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603acbe2f7ed9e6962adfe2"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603acd12f7ed9e6962adfef"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1999,
+  "discountedPrice": 474,
+  "discountPersent": 76,
+  "quantity": 100,
+  "brand": "ALY JOHN",
+  "color": "White",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603acd12f7ed9e6962adff0"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603acd12f7ed9e6962adff1"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603acd12f7ed9e6962adff2"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/i/v/x/xxl-br-ad-kt-105-adwyn-peter-original-imagj4zyd2q7t6cg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603acd12f7ed9e6962adfed"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ace22f7ed9e6962adffa"
+  },
+  "title": "Men Woven Design Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1049,
+  "discountedPrice": 524,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "Grey",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ace22f7ed9e6962adffb"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ace22f7ed9e6962adffc"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ace22f7ed9e6962adffd"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/j/a/r/l-poch521835-peter-england-original-imag7jg47g7cxhg3-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ace22f7ed9e6962adff8"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603acfa2f7ed9e6962ae005"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 499,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "Majestic Man",
+  "color": "Pink",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603acfa2f7ed9e6962ae006"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603acfa2f7ed9e6962ae007"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603acfa2f7ed9e6962ae008"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/y/c/x/xl-kast107hp-majestic-man-original-imafw49u5uty4agx-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603acf92f7ed9e6962ae003"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad212f7ed9e6962ae012"
+  },
+  "title": "Men Solid Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 999,
+  "discountedPrice": 277,
+  "discountPersent": 72,
+  "quantity": 100,
+  "brand": "WRODSS",
+  "color": "Black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad212f7ed9e6962ae013"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad212f7ed9e6962ae014"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad212f7ed9e6962ae015"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kpodocw0/t-shirt/x/o/4/xl-wr-64-wrodss-original-imag3upwgq9n9fbv.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad212f7ed9e6962ae010"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad2d2f7ed9e6962ae01d"
+  },
+  "title": "Men Printed Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1049,
+  "discountedPrice": 765,
+  "discountPersent": 27,
+  "quantity": 100,
+  "brand": "Manthan",
+  "color": "Blue",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad2d2f7ed9e6962ae01e"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad2d2f7ed9e6962ae01f"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad2d2f7ed9e6962ae020"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l4zxn680/kurta/i/g/u/s-mtml0039-341-manthan-original-imagfrz3gwgdtczm.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad2d2f7ed9e6962ae01b"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad392f7ed9e6962ae028"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1599,
+  "discountedPrice": 499,
+  "discountPersent": 68,
+  "quantity": 100,
+  "brand": "RAHUL LOOK",
+  "color": "Green",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad392f7ed9e6962ae029"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad392f7ed9e6962ae02a"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad392f7ed9e6962ae02b"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/m/e/e/s-kurta-rahul-look-original-imaga2g6qmhbywdf-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad392f7ed9e6962ae026"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad452f7ed9e6962ae033"
+  },
+  "title": "Men Printed Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 999,
+  "discountedPrice": 429,
+  "discountPersent": 57,
+  "quantity": 100,
+  "brand": "FRELURO",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad452f7ed9e6962ae034"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad452f7ed9e6962ae035"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad452f7ed9e6962ae036"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/u/v/m/l-grey-106-yellow-freluro-original-imagc26vdpwxgztu-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad452f7ed9e6962ae031"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad512f7ed9e6962ae03e"
+  },
+  "title": "Men Self Design Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 909,
+  "discountedPrice": 729,
+  "discountPersent": 27,
+  "quantity": 100,
+  "brand": "Manthan",
+  "color": "Light Blue",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad512f7ed9e6962ae03f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad512f7ed9e6962ae040"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad512f7ed9e6962ae041"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/jsj90280/kurta/j/z/g/l-mtmkos0004-326-manthan-original-imafe35wha5ry36p.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad512f7ed9e6962ae03c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad5d2f7ed9e6962ae049"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1749,
+  "discountedPrice": 449,
+  "discountPersent": 74,
+  "quantity": 100,
+  "brand": "allan peter",
+  "color": "Green",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad5d2f7ed9e6962ae04a"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad5d2f7ed9e6962ae04b"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad5d2f7ed9e6962ae04c"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/g/f/f/xl-grey-sws4503-allan-peter-original-imag6xxgvvh59gh5-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad5d2f7ed9e6962ae047"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad682f7ed9e6962ae054"
+  },
+  "title": "Men Solid Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 449,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "COMBRAIDED",
+  "color": "Dark Blue",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad682f7ed9e6962ae055"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad682f7ed9e6962ae056"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad682f7ed9e6962ae057"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/u/g/z/xl-8button-kurta-elepants-original-imagk57kfg2bwvhd.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad682f7ed9e6962ae052"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad772f7ed9e6962ae05f"
+  },
+  "title": "Men Solid Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 385,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "FOLGEN",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad772f7ed9e6962ae060"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad772f7ed9e6962ae061"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad772f7ed9e6962ae062"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/7/b/q/xl-short-button-yellow-101-deal4mens-original-imagf6nzhwufyygg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad772f7ed9e6962ae05d"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad832f7ed9e6962ae06a"
+  },
+  "title": "Men Solid Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1495,
+  "discountedPrice": 395,
+  "discountPersent": 73,
+  "quantity": 100,
+  "brand": "Tap in",
+  "color": "Orange",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad832f7ed9e6962ae06b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad832f7ed9e6962ae06c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad832f7ed9e6962ae06d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l3lx8cw0/kurta/d/o/m/l-kurta-mr-button-tap-in-original-imagezztuysgufsh.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad832f7ed9e6962ae068"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad932f7ed9e6962ae076"
+  },
+  "title": "Men Printed Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1648,
+  "discountedPrice": 399,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "FUBAR",
+  "color": "Dark Blue",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad932f7ed9e6962ae077"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad932f7ed9e6962ae078"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad932f7ed9e6962ae079"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/a/m/4/xl-sksh-dt1105-navy-fubar-original-imafuyzzh7fx6kaw-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad932f7ed9e6962ae074"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ad9f2f7ed9e6962ae081"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 599,
+  "discountPersent": 76,
+  "quantity": 100,
+  "brand": "Vida Loca",
+  "color": "White",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ad9f2f7ed9e6962ae082"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ad9f2f7ed9e6962ae083"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ad9f2f7ed9e6962ae084"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/7/m/3/xxl-vlsd-a0ltpk-vida-loca-original-imagk5ggvxf97dwz.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ad9f2f7ed9e6962ae07f"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603adaa2f7ed9e6962ae08c"
+  },
+  "title": "Men Self Design Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 629,
+  "discountPersent": 74,
+  "quantity": 100,
+  "brand": "Vida Loca",
+  "color": "White",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603adaa2f7ed9e6962ae08d"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603adaa2f7ed9e6962ae08e"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603adaa2f7ed9e6962ae08f"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kxkqavk0/kurta/l/w/t/xxl-vlsd-a0lt-vida-loca-original-imagay8hcrqax2uv.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603adaa2f7ed9e6962ae08a"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603adb42f7ed9e6962ae097"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 370,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "Nofilter",
+  "color": "White",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603adb42f7ed9e6962ae098"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603adb42f7ed9e6962ae099"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603adb42f7ed9e6962ae09a"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/n/p/q/xxl-white-kurta-lilen-spoque-original-imagnk2zzcgqst3r.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603adb42f7ed9e6962ae095"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603adbe2f7ed9e6962ae0a2"
+  },
+  "title": "Men Solid Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 363,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "KSH Trendz",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603adbe2f7ed9e6962ae0a3"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603adbe2f7ed9e6962ae0a4"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603adbe2f7ed9e6962ae0a5"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/l/9/r/xxl-ksh-p-kurta-yellow-ksh-trendz-original-imafyq4h7q5gpkzk-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603adbe2f7ed9e6962ae0a0"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603adda2f7ed9e6962ae0ad"
+  },
+  "title": "Men Self Design Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 629,
+  "discountPersent": 74,
+  "quantity": 100,
+  "brand": "Vida Loca",
+  "color": "Beige",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603adda2f7ed9e6962ae0ae"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603adda2f7ed9e6962ae0af"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603adda2f7ed9e6962ae0b0"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kxkqavk0/kurta/c/p/f/xxl-vlsd-a0lt-vida-loca-original-imagay8hjdc9cdzh.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603adda2f7ed9e6962ae0ab"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ade62f7ed9e6962ae0b8"
+  },
+  "title": "Men Self Design Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 629,
+  "discountPersent": 74,
+  "quantity": 100,
+  "brand": "Vida Loca",
+  "color": "Light Blue",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ade62f7ed9e6962ae0b9"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ade62f7ed9e6962ae0ba"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ade62f7ed9e6962ae0bb"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/5/w/o/l-vlsd-a0lt-vida-loca-original-imagay8hg3nydjuh-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ade62f7ed9e6962ae0b6"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603adf52f7ed9e6962ae0c3"
+  },
+  "title": "Men Printed Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1648,
+  "discountedPrice": 399,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "FUBAR",
+  "color": "Purple",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603adf52f7ed9e6962ae0c4"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603adf52f7ed9e6962ae0c5"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603adf52f7ed9e6962ae0c6"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/v/7/w/xl-sksh-dt1105-pur-fubar-original-imafuy3z57uqgdrp-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603adf52f7ed9e6962ae0c1"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae082f7ed9e6962ae0ce"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 499,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "Majestic Man",
+  "color": "Pink",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae082f7ed9e6962ae0cf"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae082f7ed9e6962ae0d0"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae082f7ed9e6962ae0d1"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kfpq5jk0-0/kurta/e/g/i/m-kast109pp-majestic-man-original-imafw49u8vyzygpn.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae082f7ed9e6962ae0cc"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae112f7ed9e6962ae0d9"
+  },
+  "title": "Men Solid Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 265,
+  "discountPersent": 82,
+  "quantity": 100,
+  "brand": "KSH Trendz",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae112f7ed9e6962ae0da"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae112f7ed9e6962ae0db"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae112f7ed9e6962ae0dc"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/y/r/m/xxs-sada-plain-kurta-ksh-trendz-original-imag4baggdt7txju-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae112f7ed9e6962ae0d7"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae1a2f7ed9e6962ae0e4"
+  },
+  "title": "Men Self Design Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1999,
+  "discountedPrice": 483,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "ARMAAN ETHNIC",
+  "color": "Blue",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae1a2f7ed9e6962ae0e5"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae1a2f7ed9e6962ae0e6"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae1a2f7ed9e6962ae0e7"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/t/g/w/xxl-ae08sk42-blue-aew-designs-original-imagg8npatfky9wg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae1a2f7ed9e6962ae0e2"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae292f7ed9e6962ae0ef"
+  },
+  "title": "Men Printed Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 499,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "Majestic Man",
+  "color": "Light Green",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae292f7ed9e6962ae0f0"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae292f7ed9e6962ae0f1"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae292f7ed9e6962ae0f2"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/b/0/5/m-kast-fern-lit-green-majestic-man-original-imagzrafzhtbnz7s.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae292f7ed9e6962ae0ed"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae3a2f7ed9e6962ae0fc"
+  },
+  "title": "Men Printed Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1648,
+  "discountedPrice": 399,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "FUBAR",
+  "color": "Maroon",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae3a2f7ed9e6962ae0fd"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae3a2f7ed9e6962ae0fe"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae3a2f7ed9e6962ae0ff"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/s/p/a/l-kcsh-krt-103-mao-fubar-original-imag7fpesvngbwyy-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae3a2f7ed9e6962ae0fa"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae422f7ed9e6962ae107"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1749,
+  "discountedPrice": 449,
+  "discountPersent": 74,
+  "quantity": 100,
+  "brand": "allan peter",
+  "color": "Pink",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae422f7ed9e6962ae108"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae422f7ed9e6962ae109"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae422f7ed9e6962ae10a"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/8/u/r/xl-sws2701-allan-peter-original-imafvxcfcsg4dzab-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae422f7ed9e6962ae105"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae4c2f7ed9e6962ae112"
+  },
+  "title": "Men Floral Print Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1599,
+  "discountedPrice": 468,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "DEEMOON",
+  "color": "Dark Blue",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae4c2f7ed9e6962ae113"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae4c2f7ed9e6962ae114"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae4c2f7ed9e6962ae115"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/x/u/y/s-smpl04-deemoon-original-imagk5mnr9ufeha2.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae4c2f7ed9e6962ae110"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae572f7ed9e6962ae11e"
+  },
+  "title": "Men Printed Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1749,
+  "discountedPrice": 499,
+  "discountPersent": 71,
+  "quantity": 100,
+  "brand": "allan peter",
+  "color": "Dark Blue",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae572f7ed9e6962ae11f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae572f7ed9e6962ae120"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae572f7ed9e6962ae121"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/z/l/b/xl-grey-sws2902-allan-peter-original-imag3y6tzaaxwkhy-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae572f7ed9e6962ae11c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae612f7ed9e6962ae129"
+  },
+  "title": "Men Self Design Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2199,
+  "discountedPrice": 467,
+  "discountPersent": 78,
+  "quantity": 100,
+  "brand": "More & More",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae612f7ed9e6962ae12a"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae612f7ed9e6962ae12b"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae612f7ed9e6962ae12c"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/e/j/j/l-jcardkurta-yellow-divra-clothing-original-imaggjhfgjqhuwtk.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae612f7ed9e6962ae127"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae6c2f7ed9e6962ae134"
+  },
+  "title": "Men Printed Pure Silk Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 810,
+  "discountPersent": 67,
+  "quantity": 100,
+  "brand": "SG LEMAN",
+  "color": "Gold",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae6c2f7ed9e6962ae135"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae6c2f7ed9e6962ae136"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae6c2f7ed9e6962ae137"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/o/u/d/s-up-kurta-31035-phone-sg-leman-original-imagzu7tgzgtmnvb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae6c2f7ed9e6962ae132"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae762f7ed9e6962ae13f"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1279,
+  "discountedPrice": 478,
+  "discountPersent": 62,
+  "quantity": 100,
+  "brand": "ALY JOHN",
+  "color": "Maroon",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae762f7ed9e6962ae140"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae762f7ed9e6962ae141"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae762f7ed9e6962ae142"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kybvo280/kurta/v/i/i/xxl-aly2502-aly-john-original-imagah6me94dugrs.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae762f7ed9e6962ae13d"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae7f2f7ed9e6962ae14a"
+  },
+  "title": "Men Striped Cotton Blend Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1648,
+  "discountedPrice": 399,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "FUBAR",
+  "color": "Black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae7f2f7ed9e6962ae14b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae7f2f7ed9e6962ae14c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae7f2f7ed9e6962ae14d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/6/y/v/m-sksh-dt1105-black-fubar-original-imag4cpwzmhbufg4-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae7f2f7ed9e6962ae148"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae882f7ed9e6962ae155"
+  },
+  "title": "Men Printed Cotton Blend Ethnic Dress",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 948,
+  "discountPersent": 27,
+  "quantity": 100,
+  "brand": "Manthan",
+  "color": "Orange",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae882f7ed9e6962ae156"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae882f7ed9e6962ae157"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae882f7ed9e6962ae158"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l3khsi80/kurta/1/c/6/l-mtml0042-328-manthan-original-imagenvzkm3v9vxh.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae872f7ed9e6962ae153"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603ae9e2f7ed9e6962ae160"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 362,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "SPOQUE",
+  "color": "Pink",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603ae9e2f7ed9e6962ae161"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603ae9e2f7ed9e6962ae162"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603ae9e2f7ed9e6962ae163"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/t/j/u/s-pink-kurta-lilen-spoque-original-imagnfkwk5gpfmzx.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603ae9e2f7ed9e6962ae15e"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603aeaa2f7ed9e6962ae16b"
+  },
+  "title": "Men Solid Pure Cotton Straight Kurta",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1599,
+  "discountedPrice": 393,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "Nofilter",
+  "color": "White",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603aeaa2f7ed9e6962ae16c"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603aeaa2f7ed9e6962ae16d"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603aeaa2f7ed9e6962ae16e"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/x/f/6/xxl-new-white-nofilter-original-imaghzggudfezpr8.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603aeaa2f7ed9e6962ae169"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b0052f7ed9e6962ae17a"
+  },
+  "title": "Women Asymmetric Pink Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 2499,
+  "discountedPrice": 1299,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "MADAME",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b0052f7ed9e6962ae17b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b0052f7ed9e6962ae17c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b0052f7ed9e6962ae17d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l0wrafk0/dress/l/2/o/3xl-m2s13003-peach-madame-original-imagchhhwbypcann.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b0052f7ed9e6962ae178"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b01c2f7ed9e6962ae185"
+  },
+  "title": "Women Maxi Blue Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1899,
+  "discountedPrice": 341,
+  "discountPersent": 82,
+  "quantity": 100,
+  "brand": "Daevish",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b01c2f7ed9e6962ae186"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b01c2f7ed9e6962ae187"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b01c2f7ed9e6962ae188"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/1/h/g/m-pw333-purshottam-wala-original-imag8zf6ybkmhehy-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b01c2f7ed9e6962ae183"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b0272f7ed9e6962ae190"
+  },
+  "title": "Women A-line Purple Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1999,
+  "discountedPrice": 499,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "ZWERLON",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b0272f7ed9e6962ae191"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b0272f7ed9e6962ae192"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b0272f7ed9e6962ae193"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/z/s/i/s-a1-zwerlon-original-imagn9uycxbhshur.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b0272f7ed9e6962ae18e"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b0412f7ed9e6962ae19b"
+  },
+  "title": "Women Fit and Flare Blue Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 2099,
+  "discountedPrice": 359,
+  "discountPersent": 82,
+  "quantity": 100,
+  "brand": "Purshottam Wala",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b0412f7ed9e6962ae19c"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b0412f7ed9e6962ae19d"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b0412f7ed9e6962ae19e"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/e/a/p/s-pwd322-purshottam-wala-original-imagm6ywr7vz95sz.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b0412f7ed9e6962ae199"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b3212f7ed9e6962ae1a6"
+  },
+  "title": "Women Two Piece Dress Light Green Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1799,
+  "discountedPrice": 827,
+  "discountPersent": 54,
+  "quantity": 100,
+  "brand": "NEYSA",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b3212f7ed9e6962ae1a7"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b3212f7ed9e6962ae1a8"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b3212f7ed9e6962ae1a9"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kdlzte80/ethnic-set/p/f/q/l-3209-mint-02-neysa-original-imafuh85unfjczkd.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b3212f7ed9e6962ae1a4"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b3302f7ed9e6962ae1b1"
+  },
+  "title": "Women A-line Maroon Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1599,
+  "discountedPrice": 351,
+  "discountPersent": 78,
+  "quantity": 100,
+  "brand": "Leriya Fashion",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b3302f7ed9e6962ae1b2"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b3302f7ed9e6962ae1b3"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b3302f7ed9e6962ae1b4"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l0igvww0/dress/g/p/u/xl-wd-1001-leriya-fashion-original-imagc9zbhfhsy33w.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b3302f7ed9e6962ae1af"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b33c2f7ed9e6962ae1bc"
+  },
+  "title": "Women Sheath Dark Blue Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1499,
+  "discountedPrice": 449,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "BuyNewTrend",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b33c2f7ed9e6962ae1bd"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b33c2f7ed9e6962ae1be"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b33c2f7ed9e6962ae1bf"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/a/c/m/l-3261-buynewtrend-original-imagnrpdhdeke5be.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b33c2f7ed9e6962ae1ba"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b3582f7ed9e6962ae1c7"
+  },
+  "title": "Women A-line Green, White Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1999,
+  "discountedPrice": 719,
+  "discountPersent": 64,
+  "quantity": 100,
+  "brand": "W",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b3582f7ed9e6962ae1c8"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b3582f7ed9e6962ae1c9"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b3582f7ed9e6962ae1ca"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kuyf8nk0/dress/x/4/c/s-21auw15994-116106-w-original-imag7ymmr5gggzzg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b3562f7ed9e6962ae1c5"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b35a2f7ed9e6962ae1d2"
+  },
+  "title": "Women A-line Green, White Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1999,
+  "discountedPrice": 719,
+  "discountPersent": 64,
+  "quantity": 100,
+  "brand": "W",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b35a2f7ed9e6962ae1d3"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b35a2f7ed9e6962ae1d4"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b35a2f7ed9e6962ae1d5"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kuyf8nk0/dress/x/4/c/s-21auw15994-116106-w-original-imag7ymmr5gggzzg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b35a2f7ed9e6962ae1d0"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b3632f7ed9e6962ae1dd"
+  },
+  "title": "Women Maxi Grey Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1999,
+  "discountedPrice": 349,
+  "discountPersent": 65,
+  "quantity": 100,
+  "brand": "Sheetal Associates",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b3632f7ed9e6962ae1de"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b3632f7ed9e6962ae1df"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b3632f7ed9e6962ae1e0"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/9/f/g/xl-271-shivay-style-original-imafnf5ne9wqyw6n-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b3632f7ed9e6962ae1db"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b36d2f7ed9e6962ae1e8"
+  },
+  "title": "Women Asymmetric Black Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1997,
+  "discountedPrice": 299,
+  "discountPersent": 85,
+  "quantity": 100,
+  "brand": "Selvia",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b36d2f7ed9e6962ae1e9"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b36d2f7ed9e6962ae1ea"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b36d2f7ed9e6962ae1eb"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/b/5/w/xl-322k772-saara-original-imafz3xfdnekz6by-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b36d2f7ed9e6962ae1e6"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b3762f7ed9e6962ae1f3"
+  },
+  "title": "Women A-line Pink Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 2330,
+  "discountedPrice": 499,
+  "discountPersent": 78,
+  "quantity": 100,
+  "brand": "Selvia",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b3762f7ed9e6962ae1f4"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b3762f7ed9e6962ae1f5"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b3762f7ed9e6962ae1f6"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/4/t/a/xl-164tk2824-selvia-original-imagfuhwektxvjkk-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b3762f7ed9e6962ae1f1"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b3842f7ed9e6962ae1fe"
+  },
+  "title": "Women Fit and Flare Blue Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1799,
+  "discountedPrice": 359,
+  "discountPersent": 80,
+  "quantity": 100,
+  "brand": "Purshottam Wala",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b3842f7ed9e6962ae1ff"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b3842f7ed9e6962ae200"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b3842f7ed9e6962ae201"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/r/g/b/xxl-pw367-purshottam-wala-original-imaggczp39gmfj7g.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b3842f7ed9e6962ae1fc"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b3902f7ed9e6962ae209"
+  },
+  "title": "Women Fit and Flare Black, Red Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1289,
+  "discountedPrice": 474,
+  "discountPersent": 47,
+  "quantity": 100,
+  "brand": "OK QUEST",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b3902f7ed9e6962ae20a"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b3902f7ed9e6962ae20b"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b3902f7ed9e6962ae20c"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/q/j/q/xl-bebo-black-pinpoint-seller-original-imagkngh5pp8dd2v.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b38f2f7ed9e6962ae207"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40c2f7ed9e6962ae215"
+  },
+  "title": "Women A-line Yellow Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 2799,
+  "discountedPrice": 827,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "W",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae216"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae217"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae218"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/1/0/x/xxl-20auw14014-311749-w-original-imagjzyvh8zctpcx.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40c2f7ed9e6962ae213"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40c2f7ed9e6962ae21f"
+  },
+  "title": "Women A-line Pink Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 2999,
+  "discountedPrice": 351,
+  "discountPersent": 64,
+  "quantity": 100,
+  "brand": "Leriya Fashion",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae220"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae221"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae222"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/p/0/i/xl-wd1001-1012-leriya-fashion-original-imagj79jnnujedg5.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40c2f7ed9e6962ae21d"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40c2f7ed9e6962ae229"
+  },
+  "title": "Women Ethnic Dress Black Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1799,
+  "discountedPrice": 359,
+  "discountPersent": 80,
+  "quantity": 100,
+  "brand": "Purshottam Wala",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae22a"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae22b"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae22c"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kshtxu80/dress/i/d/z/m-dv320-daevish-original-imag6fxn7fnrggra.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40c2f7ed9e6962ae227"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40c2f7ed9e6962ae233"
+  },
+  "title": "Women Bodycon Black Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1499,
+  "discountedPrice": 449,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "BuyNewTrend",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae234"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae235"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae236"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/i/t/4/l-3252-buynewtrend-original-imagnrpd2zqyh8dr.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40c2f7ed9e6962ae231"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40c2f7ed9e6962ae23d"
+  },
+  "title": "Women Fit and Flare Blue Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1999,
+  "discountedPrice": 959,
+  "discountPersent": 52,
+  "quantity": 100,
+  "brand": "Dressberry",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae23e"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae23f"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae240"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kfcv6vk0/dress/a/8/s/s-11271756-dressberry-original-imafvtgrbhmvssh9.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40c2f7ed9e6962ae23b"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40c2f7ed9e6962ae247"
+  },
+  "title": "Women A-line Light Green, White Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1999,
+  "discountedPrice": 499,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "ZWERLON",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae248"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae249"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae24a"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/t/8/i/m-a1-zwerlon-original-imagn5bbthzeqpqe.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40c2f7ed9e6962ae245"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40c2f7ed9e6962ae251"
+  },
+  "title": "Women Fit and Flare Multicolor Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 2699,
+  "discountedPrice": 371,
+  "discountPersent": 86,
+  "quantity": 100,
+  "brand": "PURVAJA",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae252"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae253"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae254"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/krme93k0/dress/p/i/d/3xl-lucy-021022023-purvaja-original-imag5dfgzhsghtcz.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40c2f7ed9e6962ae24f"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40c2f7ed9e6962ae25b"
+  },
+  "title": "Women Fit and Flare Pink Dress With Mask",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1999,
+  "discountedPrice": 348,
+  "discountPersent": 82,
+  "quantity": 100,
+  "brand": "Rudraaksha",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae25c"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae25d"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40c2f7ed9e6962ae25e"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kbs9k7k0/dress/9/f/j/xxl-drdrmsk-13-rudraaksha-original-imaftfczugs8mfnr.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40c2f7ed9e6962ae259"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40d2f7ed9e6962ae265"
+  },
+  "title": "Women Skater Multicolor Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1199,
+  "discountedPrice": 495,
+  "discountPersent": 58,
+  "quantity": 100,
+  "brand": "J TURRITOPSIS",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40d2f7ed9e6962ae266"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40d2f7ed9e6962ae267"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40d2f7ed9e6962ae268"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/ktbu6q80/dress/e/7/h/xxl-78-j-turritopsis-original-imag6p4ehut2gu9s.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40c2f7ed9e6962ae263"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae26f"
+  },
+  "title": "Women Gown Blue Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 5999,
+  "discountedPrice": 2699,
+  "discountPersent": 55,
+  "quantity": 100,
+  "brand": "W",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae270"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae271"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae272"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/i/s/d/xs-22auw18583-119023-w-original-imaghnga8wscg5sk.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae26d"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae279"
+  },
+  "title": "Women A-line Maroon, White Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1499,
+  "discountedPrice": 439,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "AAYU",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae27a"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae27b"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae27c"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/7/m/2/xl-aa-00153-maroon-aayu-original-imagz844bgkeehx5.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae277"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae283"
+  },
+  "title": "Women Shift Beige Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1999,
+  "discountedPrice": 299,
+  "discountPersent": 85,
+  "quantity": 100,
+  "brand": "Vaani Creation",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae284"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae285"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae286"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kxtaxzk0/dress/c/d/m/l-keri-vaani-creation-original-imaga6ngag7wtcgh.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae281"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae28d"
+  },
+  "title": "Women Fit and Flare Grey Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 3999,
+  "discountedPrice": 1599,
+  "discountPersent": 60,
+  "quantity": 100,
+  "brand": "Aurelia",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae28e"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae28f"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae290"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l13whow0/dress/m/4/o/xxl-21aud10360-501943-aurelia-original-imagcqvjnssagkqt.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae28b"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae297"
+  },
+  "title": "Women Fit and Flare Yellow Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 4999,
+  "discountedPrice": 1779,
+  "discountPersent": 64,
+  "quantity": 100,
+  "brand": "W",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae298"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae299"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae29a"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l3xcr680/dress/p/l/3/l-22few17901-118335-w-original-imagexn4zahxcu3a.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae295"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae2a1"
+  },
+  "title": "Women Maxi Maroon Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1899,
+  "discountedPrice": 341,
+  "discountPersent": 82,
+  "quantity": 100,
+  "brand": "Daevish",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2a2"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2a3"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2a4"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/u/u/a/xs-dk333-dk-fab-original-imag89k7mw5hc3zd.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae29f"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae2ab"
+  },
+  "title": "Women A-line Purple Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 3999,
+  "discountedPrice": 349,
+  "discountPersent": 65,
+  "quantity": 100,
+  "brand": "Sheetal Associates",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2ac"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2ad"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2ae"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/k6xxua80/dress/z/z/3/l-286-shivay-style-original-imafp9yphyyf9ypv.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae2a9"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae2b5"
+  },
+  "title": "Women Gown Brown Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 2899,
+  "discountedPrice": 899,
+  "discountPersent": 68,
+  "quantity": 100,
+  "brand": "Miss Chase",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2b6"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2b7"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2b8"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/k/z/r/l-mcaw19d08-57-217-miss-chase-original-imafz2ftwd7j8ghy-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae2b3"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae2bf"
+  },
+  "title": "Women Ruffled Brown Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 2063,
+  "discountedPrice": 349,
+  "discountPersent": 83,
+  "quantity": 100,
+  "brand": "Selvia",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2c0"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2c1"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2c2"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/d/h/f/m-155tk2854a-selvia-original-imagha9zz8kshheh.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae2bd"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae2c9"
+  },
+  "title": "Women Fit and Flare Maroon Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 2798,
+  "discountedPrice": 845,
+  "discountPersent": 69,
+  "quantity": 100,
+  "brand": "MomToBe",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2ca"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2cb"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2cc"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kngd0nk0/dress/c/l/4/3xl-1036mtbmrnsolidd-momtobe-original-imag24jygj4ujykz.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae2c7"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae2d3"
+  },
+  "title": "Women Maxi Purple Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 4599,
+  "discountedPrice": 1558,
+  "discountPersent": 65,
+  "quantity": 100,
+  "brand": "W",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2d4"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2d5"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2d6"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kxf0jgw0/dress/v/h/a/s-21auw16333-116923-w-original-imag9vjtc4zj5enb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae2d1"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae2dd"
+  },
+  "title": "Women A-line Blue Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 4999,
+  "discountedPrice": 351,
+  "discountPersent": 64,
+  "quantity": 100,
+  "brand": "Leriya Fashion",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2de"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2df"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2e0"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l3es13k0/dress/s/q/w/xxl-wd1001-leriya-fashion-original-imagej6kq6ph89xh.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae2db"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b40f2f7ed9e6962ae2e7"
+  },
+  "title": "Women Maxi Black Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1899,
+  "discountedPrice": 341,
+  "discountPersent": 82,
+  "quantity": 100,
+  "brand": "Daevish",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2e8"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2e9"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b40f2f7ed9e6962ae2ea"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/i/5/w/m-dv333-daevish-original-imaga8zhya5kgvgw-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b40f2f7ed9e6962ae2e5"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae2f2"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1999,
+  "discountedPrice": 599,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "LAHEJA",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae2f3"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae2f4"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae2f5"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/h/y/g/34-jeans-bt008-laheja-original-imagqqbsfgmdhcvn.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae2f0"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae2fc"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2399,
+  "discountedPrice": 898,
+  "discountPersent": 62,
+  "quantity": 100,
+  "brand": "COPER BUCK",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae2fd"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae2fe"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae2ff"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kmns7m80/jean/9/5/o/36-black-36-coper-buck-original-imagfg9edbsneu2s.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae2fa"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae306"
+  },
+  "title": "Men Skinny Low Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2799,
+  "discountedPrice": 1099,
+  "discountPersent": 62,
+  "quantity": 100,
+  "brand": "Spykar",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae307"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae308"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae309"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/z/n/u/32-ecskn-01bb-002-spykar-original-imaghxqwuw67ywfy.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae304"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae310"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1749,
+  "discountedPrice": 429,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "UNITED DENIM",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae311"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae312"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae313"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/a/w/t/30-ud0030-united-denim-original-imagf9n9efexz68u-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae30e"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae31a"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 399,
+  "discountPersent": 69,
+  "quantity": 100,
+  "brand": "comfits",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae31b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae31c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae31d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/ky0g58w0/shopsy-jean/8/p/y/28-black-knee-cut-jeans-comfits-original-imagaccjjya9gqzn.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae318"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae324"
+  },
+  "title": "Men Tapered Fit Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1799,
+  "discountedPrice": 701,
+  "discountPersent": 61,
+  "quantity": 100,
+  "brand": "HIGHLANDER",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae325"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae326"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae327"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kwfaj680/jean/3/c/s/38-hljn001891-highlander-original-imag93tpnjyyvpkg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae322"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae32e"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1799,
+  "discountedPrice": 494,
+  "discountPersent": 72,
+  "quantity": 100,
+  "brand": "Crishtaliyo 2fashion",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae32f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae330"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae331"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/2/q/g/30-jeans-kneecut-black-crishtaliyo-2fashion-original-imagqy6gzmpwqkge.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae32c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae338"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2399,
+  "discountedPrice": 898,
+  "discountPersent": 62,
+  "quantity": 100,
+  "brand": "COPER BUCK",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae339"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae33a"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae33b"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-jean/k/v/m/30-shopsy-black-30-coper-buck-original-imag57w8xmhgkhrf.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae336"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae342"
+  },
+  "title": "Men Tapered Fit Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 610,
+  "discountPersent": 53,
+  "quantity": 100,
+  "brand": "HIGHLANDER",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae343"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae344"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae345"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kfoapow0-0/jean/w/o/d/30-000877-highlander-original-imafw2hyqbj3bsph.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae340"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae34c"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1399,
+  "discountedPrice": 699,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "Urbano Fashion",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae34d"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae34e"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae34f"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/r/a/b/38-eps-black-03-urbano-fashion-original-imaghkgk27whjcej.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae34a"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae356"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 380,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "ZAYSH",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae357"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae358"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae359"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/h/p/f/30-jk2-mjrp-02-zaysh-original-imagqgf6yh4gtwhx.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae354"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae360"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 799,
+  "discountPersent": 68,
+  "quantity": 100,
+  "brand": "COPER BUCK",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae361"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae362"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae363"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/r/3/o/30-black-1-coper-buck-original-imagqtmaknsqh34z.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae35e"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae36a"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1799,
+  "discountedPrice": 410,
+  "discountPersent": 77,
+  "quantity": 100,
+  "brand": "QARSH",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae36b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae36c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae36d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/o/s/7/28-pbwc-001-qarsh-original-imagh8cfhc3dreq8.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae368"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae374"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1099,
+  "discountedPrice": 349,
+  "discountPersent": 68,
+  "quantity": 100,
+  "brand": "linaria",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae375"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae376"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae377"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/d/s/c/36-mj-bk-pl-48-comfits-original-imagqbrnyjfzhs8v.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae372"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae37e"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2999,
+  "discountedPrice": 1799,
+  "discountPersent": 42,
+  "quantity": 100,
+  "brand": "LOUIS PHILIPPE",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae37f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae380"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae381"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/h/0/x/32-lrdncslpw68549-louis-philippe-original-imagkca2jxzmb9ya.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae37c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae388"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1799,
+  "discountedPrice": 430,
+  "discountPersent": 76,
+  "quantity": 100,
+  "brand": "QARSH",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae389"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae38a"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae38b"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/6/y/c/30-kcbwc-002-qarsh-original-imagh6fkdxzeaqc8.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae386"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae392"
+  },
+  "title": "Men Jogger Fit Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 400,
+  "discountPersent": 69,
+  "quantity": 100,
+  "brand": "ZAYSH",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae393"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae394"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae395"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/n/a/k/30-jk-jog02-zaysh-original-imag4bez9hhqvehx-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae390"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae39c"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1999,
+  "discountedPrice": 599,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "LAHEJA",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae39d"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae39e"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae39f"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/q/i/p/28-beige-jeans-bt008-laheja-original-imagqqbt4kxduwka.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae39a"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae3a6"
+  },
+  "title": "Men Slim Mid Rise Black, White Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1899,
+  "discountedPrice": 899,
+  "discountPersent": 52,
+  "quantity": 100,
+  "brand": "linaria",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3a7"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3a8"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3a9"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/u/q/f/28-lnbwp006-linaria-original-imagzudybdz3ahm5.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3a4"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae3b0"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1849,
+  "discountedPrice": 721,
+  "discountPersent": 61,
+  "quantity": 100,
+  "brand": "HIGHLANDER",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3b1"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3b2"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3b3"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kfmv9u80-0/jean/u/v/3/34-hljn000771-highlander-original-imafwfj7yznyezyq.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3ae"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae3ba"
+  },
+  "title": "Men Jogger Fit Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 429,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "ZAYSH",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3bb"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3bc"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3bd"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/0/8/j/28-4jk-jog-zaysh-original-imag4fymxqj7x4zf-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3b8"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae3c4"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2999,
+  "discountedPrice": 1399,
+  "discountPersent": 55,
+  "quantity": 100,
+  "brand": "Veirdo",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3c5"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3c6"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3c7"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/e/m/o/32-vje0123bkslmh043-veirdo-original-imagnggzasqfhvyg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3c2"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae3ce"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 7999,
+  "discountedPrice": 4399,
+  "discountPersent": 45,
+  "quantity": 100,
+  "brand": "Calvin Klein Jeans",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3cf"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3d0"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3d1"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kzd147k0/jean/z/x/c/32-j3198701by-calvin-klein-jeans-original-imagbe438rndmq6x.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3cc"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae3d8"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1999,
+  "discountedPrice": 660,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "Roadster",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3d9"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3da"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3db"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/g/q/f/28-7139482-roadster-original-imafgmr5xpgfmjbm-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3d6"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae3e2"
+  },
+  "title": "Men Boyfriend Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1799,
+  "discountedPrice": 739,
+  "discountPersent": 58,
+  "quantity": 100,
+  "brand": "Styzon",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3e3"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3e4"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3e5"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/3/e/3/28-r-067-styzon-original-imagggqtnfpaurqf.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3e0"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae3ec"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1699,
+  "discountedPrice": 561,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "Roadster",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3ed"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3ee"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3ef"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/jsaocy80/jean/3/y/h/36-4451377-roadster-original-imafdwmrjyfghdf5.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3ea"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae3f6"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 899,
+  "discountPersent": 40,
+  "quantity": 100,
+  "brand": "stylophile",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3f7"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3f8"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae3f9"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/w/x/e/34-black-00010-stylophile-original-imagpbjm2xhcfyt2.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3f4"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae400"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2999,
+  "discountedPrice": 1399,
+  "discountPersent": 55,
+  "quantity": 100,
+  "brand": "CANTABIL",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae401"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae402"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae403"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l2p23rk0/jean/c/d/c/32-mdnm00169-black-cantabil-original-imagdzc7puqhsh47.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae3fe"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae40a"
+  },
+  "title": "Men Slim Mid Rise Black, White Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1899,
+  "discountedPrice": 899,
+  "discountPersent": 52,
+  "quantity": 100,
+  "brand": "linaria",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae40b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae40c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae40d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/u/q/f/28-lnbwp006-linaria-original-imagzudybdz3ahm5.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae408"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae414"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1399,
+  "discountedPrice": 499,
+  "discountPersent": 64,
+  "quantity": 100,
+  "brand": "Supernova Inc.",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae415"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae416"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae417"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/x/f/x/28-suplpsjeanwhithr-black-supernova-inc-original-imagm6ruxyfaxeef.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae412"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae41e"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2999,
+  "discountedPrice": 1399,
+  "discountPersent": 55,
+  "quantity": 100,
+  "brand": "Veirdo",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae41f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae420"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae421"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/j/w/p/38-vje0123bkslmm042-veirdo-original-imagngkdqasgsbjh.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae41c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae428"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 1149,
+  "discountPersent": 55,
+  "quantity": 100,
+  "brand": "CANTABIL",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae429"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae42a"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae42b"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l55nekw0/jean/h/4/u/36-mdnm00160-black-cantabil-original-imagfw5adg5fq2se.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae426"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae432"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1399,
+  "discountedPrice": 499,
+  "discountPersent": 64,
+  "quantity": 100,
+  "brand": "Supernova Inc.",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae433"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae434"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae435"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/s/a/x/34-suplpsjeanblathr-black-supernova-inc-original-imagm6rsbaghtf5y.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae430"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae43c"
+  },
+  "title": "Men Skinny Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 3999,
+  "discountedPrice": 2099,
+  "discountPersent": 48,
+  "quantity": 100,
+  "brand": "LEVI'S",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae43d"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae43e"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae43f"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/5/r/d/-original-imagq2q3djvzxwzz.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae43a"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae446"
+  },
+  "title": "Men Slim Mid Rise Black, White Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1899,
+  "discountedPrice": 899,
+  "discountPersent": 52,
+  "quantity": 100,
+  "brand": "linaria",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae447"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae448"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae449"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/w/b/i/36-lnbwp003-linaria-original-imagzu9bhj98echw.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae444"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae450"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1699,
+  "discountedPrice": 662,
+  "discountPersent": 61,
+  "quantity": 100,
+  "brand": "HIGHLANDER",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae451"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae452"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae453"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/k70spzk0/jean/f/a/g/30-hljn000765-highlander-original-imafpchx9c2gdxks.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae44e"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae45a"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 3999,
+  "discountedPrice": 916,
+  "discountPersent": 77,
+  "quantity": 100,
+  "brand": "0-DEGREE",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae45b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae45c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae45d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l23mhzk0/shopsy-jean/o/b/l/34-0djemay16maglightblue-sk-original-imagdgqb9eswy2ac.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae458"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae464"
+  },
+  "title": "Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 739,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "STUDIO NEXX",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae465"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae466"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae467"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/z/q/h/42-blaze-black-studio-nexx-original-imafwfj8exeuwsy5-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae462"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae46e"
+  },
+  "title": "Plus Size Men Regular Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2249,
+  "discountedPrice": 697,
+  "discountPersent": 69,
+  "quantity": 100,
+  "brand": "HIGHLANDER",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae46f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae470"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae471"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/n/l/c/42-hljn002845-highlander-original-imagz6y7fyaqhgw3.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae46c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b4972f7ed9e6962ae478"
+  },
+  "title": "Men Slim Mid Rise Black Jeans",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1849,
+  "discountedPrice": 721,
+  "discountPersent": 61,
+  "quantity": 100,
+  "brand": "HIGHLANDER",
+  "color": "black",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae479"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae47a"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b4972f7ed9e6962ae47b"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kfmv9u80-0/jean/e/9/e/36-hljn000670-highlander-original-imafwfj6zhxw39wg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b4972f7ed9e6962ae476"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:13:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a14"
+  },
+  "title": "Men Regular Fit Solid Cut Away Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 299,
+  "discountPersent": 76,
+  "quantity": 100,
+  "brand": "El Senor",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a15"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a16"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a17"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/k4d27ww0/shirt/q/w/t/l-el024-el-senor-original-imafnadnjp5pq6tg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a12"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a1e"
+  },
+  "title": "Men Regular Fit Solid Curved Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 899,
+  "discountedPrice": 299,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "youth first",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a1f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a20"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a21"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/f/z/l/m-white-formal-youthfirst-original-imagqjdfgwjfwgsb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a1c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a28"
+  },
+  "title": "Men Regular Fit Solid Cut Away Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 299,
+  "discountPersent": 76,
+  "quantity": 100,
+  "brand": "VTEXX",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a29"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a2a"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a2b"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/i/a/z/4xl-white-vtexx-original-imagnzecssjs3y9g.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a26"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a32"
+  },
+  "title": "Men Regular Fit Checkered Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1599,
+  "discountedPrice": 879,
+  "discountPersent": 45,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a33"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a34"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a35"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/j/x/v/-original-imaghrnsfvbhrsny.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a30"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a3c"
+  },
+  "title": "Men Slim Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1648,
+  "discountedPrice": 419,
+  "discountPersent": 74,
+  "quantity": 100,
+  "brand": "FUBAR",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a3d"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a3e"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a3f"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/7/k/2/xl-kcsh-fo-1647-ma-fubar-original-imaghehzpwgjzg2y.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a3a"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a46"
+  },
+  "title": "Men Slim Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1299,
+  "discountedPrice": 399,
+  "discountPersent": 69,
+  "quantity": 100,
+  "brand": "MILDIN",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a47"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a48"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a49"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/x/m/n/40-men-regular-slim-fit-solid-button-down-collar-formal-shirt-original-imagf4mn9zg7qrmf-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a44"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a50"
+  },
+  "title": "Men Regular Fit Solid Button Down Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1849,
+  "discountedPrice": 379,
+  "discountPersent": 79,
+  "quantity": 100,
+  "brand": "VeBNoR",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a51"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a52"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a53"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/z/q/n/l-frml-st2-vebnor-original-imagqwyfw9gguwvc.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a4e"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a5a"
+  },
+  "title": "Men Regular Fit Checkered Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 999,
+  "discountedPrice": 498,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "BK BRAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a5b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a5c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a5d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/w/0/g/xl-bkchx3-bk-brand-original-imagqfdgf3s6fefd.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a58"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a64"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 799,
+  "discountedPrice": 499,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "3BROS",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a65"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a66"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a67"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l13whow0/shirt/p/3/a/44-dbhs1703-01-3bros-original-imagcr4fhjtjcyqw.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a62"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a6e"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1799,
+  "discountedPrice": 499,
+  "discountPersent": 72,
+  "quantity": 100,
+  "brand": "3BROS",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a6f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a70"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a71"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/5/7/k/m-dbfs1703-01-3bros-original-imagbghcf5bg3zwm-bb.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a6c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a78"
+  },
+  "title": "Men Slim Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1599,
+  "discountedPrice": 409,
+  "discountPersent": 74,
+  "quantity": 100,
+  "brand": "STONEBERG",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a79"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a7a"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a7b"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l3t2fm80/shirt/k/q/h/l-r-white-stoneberg-original-imageum3rhbkphxd.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a76"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a82"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 999,
+  "discountedPrice": 449,
+  "discountPersent": 55,
+  "quantity": 100,
+  "brand": "Refresh",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a83"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a84"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a85"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/ksdjma80/shirt/f/2/i/xl-men-solid-casual-shirt-refresh-original-imag5ymxgwqgx62k.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a80"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a8c"
+  },
+  "title": "Men Slim Fit Self Design Cut Away Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 949,
+  "discountPersent": 62,
+  "quantity": 100,
+  "brand": "ARROW",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a8d"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a8e"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a8f"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/d/d/y/-original-imagp8qe6mzhmydv.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a8a"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7341083ceea80dd2a96"
+  },
+  "title": "Men Regular Fit Checkered Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1799,
+  "discountedPrice": 899,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a97"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a98"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7341083ceea80dd2a99"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/j/b/f/40-peshwnupy62747-peter-england-original-imagpzhh3kvah5ut.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a94"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2aa0"
+  },
+  "title": "Men Regular Fit Checkered Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2799,
+  "discountedPrice": 1099,
+  "discountPersent": 62,
+  "quantity": 100,
+  "brand": "VAN HEUSEN",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2aa1"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2aa2"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2aa3"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/l/j/u/40-vhsflcufm32037-van-heusen-original-imaggb9fhs7rfggd.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7341083ceea80dd2a9e"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2aaa"
+  },
+  "title": "Men Slim Fit Printed Cut Away Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2399,
+  "discountedPrice": 911,
+  "discountPersent": 62,
+  "quantity": 100,
+  "brand": "ARROW",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2aab"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2aac"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2aad"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/u/e/j/40-aradosh1241-arrow-original-imagp7tyb6kkzzem.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2aa8"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2ab4"
+  },
+  "title": "Men Regular Fit Printed Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1799,
+  "discountedPrice": 499,
+  "discountPersent": 72,
+  "quantity": 100,
+  "brand": "3BROS",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ab5"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ab6"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ab7"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/2/5/5/m-hs-printed-3bros-original-imaggxfcyyb8ggcw.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2ab2"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2abe"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 960,
+  "discountedPrice": 499,
+  "discountPersent": 16,
+  "quantity": 100,
+  "brand": "V-MART",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2abf"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ac0"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ac1"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/t/l/y/s-523299-v-mart-original-imagjyhuccmdw98h.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2abc"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2ac8"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1199,
+  "discountedPrice": 719,
+  "discountPersent": 40,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ac9"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2aca"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2acb"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kxf0jgw0/shirt/l/p/v/42-pesfonubc93225-peter-england-original-imag9vp36vthbdbq.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2ac6"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2ad2"
+  },
+  "title": "Men Regular Fit Checkered Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1799,
+  "discountedPrice": 899,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ad3"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ad4"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ad5"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/0/h/v/40-peshwnufw80868-peter-england-original-imagpmdjdpj9rdzc.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2ad0"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2adc"
+  },
+  "title": "Men Slim Fit Solid Mandarin Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 499,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "NIVICK",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2add"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ade"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2adf"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kxrvi4w0/shirt/s/f/5/l-nvk-mand-nivick-original-imaga5qasjycs4ey.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2ada"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2ae6"
+  },
+  "title": "Men Slim Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 799,
+  "discountPersent": 46,
+  "quantity": 100,
+  "brand": "UNICONIC",
+  "color": "whitePack of 2",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ae7"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ae8"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2ae9"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/b/v/p/xl-jiodfgvmnjioefkllklhndgv-pockman-original-imagphvmxtgrbcga.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2ae4"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2af0"
+  },
+  "title": "Men Slim Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1648,
+  "discountedPrice": 419,
+  "discountPersent": 74,
+  "quantity": 100,
+  "brand": "FUBAR",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2af1"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2af2"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2af3"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/g/b/b/xl-kcsh-mln-1647-wh-fubar-original-imagmpn3bhqckxvj.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2aee"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2afa"
+  },
+  "title": "Men Slim Fit Checkered Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2499,
+  "discountedPrice": 949,
+  "discountPersent": 62,
+  "quantity": 100,
+  "brand": "ARROW",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2afb"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2afc"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2afd"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/n/b/d/-original-imagz3jbhdvxfpkp.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2af8"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b04"
+  },
+  "title": "Men Slim Fit Printed Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1599,
+  "discountedPrice": 799,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b05"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b06"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b07"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/l/k/9/40-pesfoslh871453-peter-england-original-imagp9zeq4yfdyzc.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b02"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b0e"
+  },
+  "title": "Men Slim Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2599,
+  "discountedPrice": 149,
+  "discountPersent": 45,
+  "quantity": 100,
+  "brand": "VAN HEUSEN",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b0f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b10"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b11"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/i/k/g/44-vhsfbslbe51125-van-heusen-original-imaggav5mhzg359d.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b0c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b18"
+  },
+  "title": "Men Regular Fit Striped Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 649,
+  "discountPersent": 56,
+  "quantity": 100,
+  "brand": "Don Vino",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b19"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b1a"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b1b"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/d/u/z/42-7176-don-vino-original-imagzdwbntyrbhuf.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b16"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b22"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 990,
+  "discountedPrice": 499,
+  "discountPersent": 50,
+  "quantity": 100,
+  "brand": "3BROS",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b23"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b24"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b25"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l13whow0/shirt/p/3/a/44-dbhs1703-01-3bros-original-imagcr4fhjtjcyqw.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b20"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b2c"
+  },
+  "title": "Men Slim Fit Solid Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1599,
+  "discountedPrice": 959,
+  "discountPersent": 40,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b2d"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b2e"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b2f"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/b/8/l/40-pesfwslp166652-peter-england-original-imagppkng4xknhhz.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b2a"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b36"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1599,
+  "discountedPrice": 399,
+  "discountPersent": 75,
+  "quantity": 100,
+  "brand": "FIBERMILL",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b37"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b38"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b39"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l02r1jk0/shirt/3/f/g/l-fbrml-r-fibermill-original-imagbxyujjfqtkyj.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b34"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b40"
+  },
+  "title": "Men Regular Fit Solid Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 899,
+  "discountedPrice": 599,
+  "discountPersent": 40,
+  "quantity": 100,
+  "brand": "THESMOKE",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b41"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b42"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b43"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/i/5/1/2xl-regular-thesmoke-original-imagkxegg6bf6hdn.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b3e"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b4a"
+  },
+  "title": "Men Regular Fit Solid Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 699,
+  "discountedPrice": 620,
+  "discountPersent": 37,
+  "quantity": 100,
+  "brand": "THESMOKE",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b4b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b4c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b4d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l4hcx3k0/shirt/d/5/s/m-th-smok-07-thesmoke-original-imagfdpsya5gghxt.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b48"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b54"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1599,
+  "discountedPrice": 751,
+  "discountPersent": 53,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b55"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b56"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b57"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/a/p/f/-original-imaghrnsmt48qmfm.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b52"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b5e"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 2299,
+  "discountedPrice": 919,
+  "discountPersent": 60,
+  "quantity": 100,
+  "brand": "ARROW",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b5f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b60"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b61"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/x/a/j/50-araesh0081-arrow-original-imaghszdnwydngzu.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b5c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b68"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1199,
+  "discountedPrice": 719,
+  "discountPersent": 40,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b69"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b6a"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b6b"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/u/o/c/40-pesfonub175471-peter-england-original-imagm5zqbwuhpy3j.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b66"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b72"
+  },
+  "title": "Men Slim Fit Striped Button Down Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 5999,
+  "discountedPrice": 4499,
+  "discountPersent": 25,
+  "quantity": 100,
+  "brand": "Calvin Klein Jeans",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b73"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b74"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b75"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/z/k/b/40-k10k1105590g0-calvin-klein-jeans-original-imagga3egpkyhxbh.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b70"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b7c"
+  },
+  "title": "Men Slim Fit Solid Mandarin Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1499,
+  "discountedPrice": 499,
+  "discountPersent": 66,
+  "quantity": 100,
+  "brand": "NIVICK",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b7d"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b7e"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b7f"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l15bxjk0/shirt/0/m/v/s-nvk-mand-nivick-original-imagcrw6hxz2ye7r.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b7a"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b86"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 999,
+  "discountedPrice": 420,
+  "discountPersent": 57,
+  "quantity": 100,
+  "brand": "Alpesh",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b87"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b88"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b89"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/8/a/d/xxl-aone-01-alpesh-original-imagzbnhcrz9dknk.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b84"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b90"
+  },
+  "title": "Men Slim Fit Checkered Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1999,
+  "discountedPrice": 1099,
+  "discountPersent": 47,
+  "quantity": 100,
+  "brand": "VAN HEUSEN",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b91"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b92"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b93"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/m/b/m/-original-imagn5gt84cx4pgg.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b8e"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b7351083ceea80dd2b9a"
+  },
+  "title": "Men Slim Fit Solid Spread Collar Formal Shirt",
+  "description": "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
+  "price": 1399,
+  "discountedPrice": 839,
+  "discountPersent": 40,
+  "quantity": 100,
+  "brand": "PETER ENGLAND",
+  "color": "white",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b9b"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b9c"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b7351083ceea80dd2b9d"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kxrvi4w0/shirt/v/k/d/38-pesfoslb493283-peter-england-original-imaga5p5shuyv6u5.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b7351083ceea80dd2b98"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b84e1083ceea80dd2baf"
+  },
+  "title": "Self Design Semi Stitched Lehenga Choli",
+  "description": "Yellow Readymade Lehenga in Net fabric  The Lehenga is embellished with Mirrorwork embroidery Accompanied with an Readymade blouse and dupattaComes with the Koskii promise of premium quality",
+  "price": 8999,
+  "discountedPrice": 3999,
+  "discountPersent": 10,
+  "quantity": 100,
+  "brand": "AstonBlue",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b84e1083ceea80dd2bb0"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b84e1083ceea80dd2bb1"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b84e1083ceea80dd2bb2"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/u/g/a/free-half-sleeve-vbnd-fddj-astonblue-original-imagp286bmcaabbj.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b84e1083ceea80dd2bad"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b86a1083ceea80dd2bbc"
+  },
+  "title": "Self Design Semi Stitched Lehenga Choli",
+  "description": "Yellow Readymade Lehenga in Net fabric  The Lehenga is embellished with Mirrorwork embroidery Accompanied with an Readymade blouse and dupattaComes with the Koskii promise of premium quality",
+  "price": 8999,
+  "discountedPrice": 3999,
+  "discountPersent": 10,
+  "quantity": 100,
+  "brand": "AstonBlue",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b86a1083ceea80dd2bbd"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b86a1083ceea80dd2bbe"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b86a1083ceea80dd2bbf"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/u/g/a/free-half-sleeve-vbnd-fddj-astonblue-original-imagp286bmcaabbj.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b86a1083ceea80dd2bba"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b89e1083ceea80dd2bc9"
+  },
+  "title": "Self Design Semi Stitched Lehenga Choli",
+  "description": "Yellow Readymade Lehenga in Net fabric  The Lehenga is embellished with Mirrorwork embroidery Accompanied with an Readymade blouse and dupattaComes with the Koskii promise of premium quality",
+  "price": 8999,
+  "discountedPrice": 3999,
+  "discountPersent": 10,
+  "quantity": 100,
+  "brand": "AstonBlue",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b89e1083ceea80dd2bca"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b89e1083ceea80dd2bcb"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b89e1083ceea80dd2bcc"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/u/g/a/free-half-sleeve-vbnd-fddj-astonblue-original-imagp286bmcaabbj.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b89e1083ceea80dd2bc7"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b8a01083ceea80dd2bd6"
+  },
+  "title": "Self Design Semi Stitched Lehenga Choli",
+  "description": "Yellow Readymade Lehenga in Net fabric  The Lehenga is embellished with Mirrorwork embroidery Accompanied with an Readymade blouse and dupattaComes with the Koskii promise of premium quality",
+  "price": 8999,
+  "discountedPrice": 3999,
+  "discountPersent": 10,
+  "quantity": 100,
+  "brand": "AstonBlue",
+  "color": "Yellow",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6603b8a01083ceea80dd2bd7"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6603b8a01083ceea80dd2bd8"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 50,
+      "_id": {
+        "$oid": "6603b8a01083ceea80dd2bd9"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/u/g/a/free-half-sleeve-vbnd-fddj-astonblue-original-imagp286bmcaabbj.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6603b8a01083ceea80dd2bd4"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T06:05:27.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660407143b67316a2b0e0493"
+  },
+  "title": "Women Fit and Flare Black, Red Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1289,
+  "discountedPrice": 474,
+  "discountPersent": 10,
+  "quantity": 100,
+  "brand": "OK QUEST",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "660407143b67316a2b0e0494"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "660407143b67316a2b0e0495"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 0,
+      "_id": {
+        "$oid": "660407143b67316a2b0e0496"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/q/j/q/xl-bebo-black-pinpoint-seller-original-imagkngh5pp8dd2v.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "660407143b67316a2b0e0491"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T11:44:03.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660407273b67316a2b0e049e"
+  },
+  "title": "Women Fit and Flare Black, Red Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1289,
+  "discountedPrice": 474,
+  "discountPersent": 30,
+  "quantity": 100,
+  "brand": "OK QUEST",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "660407273b67316a2b0e049f"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "660407273b67316a2b0e04a0"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 0,
+      "_id": {
+        "$oid": "660407273b67316a2b0e04a1"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/q/j/q/xl-bebo-black-pinpoint-seller-original-imagkngh5pp8dd2v.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "660407273b67316a2b0e049c"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T11:44:03.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6604072e3b67316a2b0e04a9"
+  },
+  "title": "Women Fit and Flare Black, Red Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1289,
+  "discountedPrice": 474,
+  "discountPersent": 40,
+  "quantity": 100,
+  "brand": "OK QUEST",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6604072e3b67316a2b0e04aa"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6604072e3b67316a2b0e04ab"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 0,
+      "_id": {
+        "$oid": "6604072e3b67316a2b0e04ac"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/q/j/q/xl-bebo-black-pinpoint-seller-original-imagkngh5pp8dd2v.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6604072e3b67316a2b0e04a7"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T11:44:03.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660407333b67316a2b0e04b4"
+  },
+  "title": "Women Fit and Flare Black, Red Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1289,
+  "discountedPrice": 474,
+  "discountPersent": 70,
+  "quantity": 100,
+  "brand": "OK QUEST",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "660407333b67316a2b0e04b5"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "660407333b67316a2b0e04b6"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 0,
+      "_id": {
+        "$oid": "660407333b67316a2b0e04b7"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/q/j/q/xl-bebo-black-pinpoint-seller-original-imagkngh5pp8dd2v.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "660407333b67316a2b0e04b2"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T11:44:03.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660407393b67316a2b0e04bf"
+  },
+  "title": "Women Fit and Flare Black, Red Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1289,
+  "discountedPrice": 474,
+  "discountPersent": 90,
+  "quantity": 100,
+  "brand": "OK QUEST",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "660407393b67316a2b0e04c0"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "660407393b67316a2b0e04c1"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 0,
+      "_id": {
+        "$oid": "660407393b67316a2b0e04c2"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/q/j/q/xl-bebo-black-pinpoint-seller-original-imagkngh5pp8dd2v.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "660407393b67316a2b0e04bd"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T11:44:03.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6604073f3b67316a2b0e04ca"
+  },
+  "title": "Women Fit and Flare Black, Red Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 1289,
+  "discountedPrice": 474,
+  "discountPersent": 85,
+  "quantity": 100,
+  "brand": "OK QUEST",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6604073f3b67316a2b0e04cb"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "6604073f3b67316a2b0e04cc"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 0,
+      "_id": {
+        "$oid": "6604073f3b67316a2b0e04cd"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/q/j/q/xl-bebo-black-pinpoint-seller-original-imagkngh5pp8dd2v.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "6604073f3b67316a2b0e04c8"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T11:44:03.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660409fa894dc71cb98dd72c"
+  },
+  "title": "Women Fit and Flare Black, Red Dress",
+  "description": "Make a statement with this stylish purple A-line dress from ZWERLON. Made with high-quality fabric, this dress is perfect for any occasion.",
+  "price": 122890,
+  "discountedPrice": 9999,
+  "discountPersent": 20,
+  "quantity": 100,
+  "brand": "OK QUEST",
+  "color": "",
+  "sizes": [
+    {
+      "name": "S",
+      "quantity": 20,
+      "_id": {
+        "$oid": "660409fa894dc71cb98dd72d"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 30,
+      "_id": {
+        "$oid": "660409fa894dc71cb98dd72e"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 0,
+      "_id": {
+        "$oid": "660409fa894dc71cb98dd72f"
+      }
+    }
+  ],
+  "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/q/j/q/xl-bebo-black-pinpoint-seller-original-imagkngh5pp8dd2v.jpeg?q=70",
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "category": {
+    "$oid": "660409fa894dc71cb98dd72a"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T11:52:08.931Z"
+  },
+  "__v": 0
+}]
