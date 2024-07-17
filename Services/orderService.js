@@ -58,9 +58,6 @@ const createOrder = async (user,  shippingAddress) => {
 }
 
 
-
-
-
 const placeOrder = async (orderId) => {
 
     const order = await findOrderById(orderId);
@@ -128,15 +125,21 @@ const userOrderHistory = async (userId) => {
 
 const getAllOrders = async () => {
     return await Order.find()
-        .populate({ path: "orderItems", populate: { path: "product" } }).lean()
-}
+        .populate({ path: "orderItems", populate: { path: "product" } })
+        .lean();
+};
 
-const deleteOrder = async (orderId) => {
-
-    const order = await findOrderById(orderId);
-
-    await Order.findByIdAndDelete(order._id)
-}
+const deleteOrderById = async (orderId) => {
+    try {
+        const deletedOrder = await Order.findByIdAndDelete(orderId);
+        if (!deletedOrder) {
+            throw new Error('Order not found');
+        }
+        return deletedOrder;
+    } catch (error) {
+        throw new Error(error.message);
+    }
+};
 
 
 
@@ -150,5 +153,5 @@ module.exports = {
     findOrderById,
     userOrderHistory,
     getAllOrders,
-    deleteOrder
+    deleteOrderById
 }

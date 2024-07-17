@@ -52,5 +52,23 @@ const orderHistory = async (req, res) => {
 
 }
 
+const getAllOrders = async (req, res) => {
+    try {
+        const orders = await orderService.getAllOrders();
+        res.json(orders);
+    } catch (error) {
+        res.status(500).json({ message: error.message });
+    }
+};
 
-module.exports = { createOrder, findOrderById, orderHistory };
+const deleteOrderById = async (req, res) => {
+    const orderId = req.params.id;
+    try {
+        const deletedOrder = await orderService.deleteOrderById(orderId);
+        res.status(200).json(deletedOrder);
+    } catch (error) {
+        res.status(500).json({ message: error.message });
+    }
+};
+
+module.exports = { createOrder, findOrderById, orderHistory,getAllOrders,deleteOrderById};
